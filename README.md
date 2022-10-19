@@ -37,3 +37,9 @@ $ bash Ram.sh
 $ --int
 $ --service
 ```
+
+### Contact me on :
+<p align="left">
+  <a href="https://github.com/Lucstay11" target="_blank"><img src="https://img.shields.io/badge/Github-Lucstay11-green?style=for-the-badge&logo=github"></a>
+<a href="https://discord.gg/ZGfGVmaC" target="_blank"><img src="https://img.shields.io/badge/Discord-Lucstay11-mallow?style=for-the-badge&logo=discord"></a>
+</p>
