@@ -35,7 +35,7 @@ $ bash Ram.sh apache2
 ```
 **`Script settings`**
 ```
-$ --int : Interractive mode
+$ --int : Interactive mode
 $ --service : Show all service
 $ --user : show service use for user
 $ --help : help
