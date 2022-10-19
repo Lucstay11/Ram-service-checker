@@ -10,3 +10,30 @@
 </p>
 
 A monitoring service that displays the ram consumed by the services with an interactive and non-interactive mode
+
+
+**`Packages`**
+  
+  - `toilet`
+  - `fzf`
+
+**`Installation`**
+
+```
+$ git clone https://github.com/Lucstay11/Ram-service-checker
+```
+```
+$ cd Ram-service-checker
+```
+```
+$ chmod +x Ram.sh
+```
+**`Run the script`**
+```
+$ bash Ram.sh
+```
+**`Script settings`**
+```
+$ --int
+$ --service
+```
