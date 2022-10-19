@@ -37,8 +37,8 @@ $ bash Ram.sh apache2
 ```
 $ --int : Interractive mode
 $ --service : Show all service
-$ --help : help
 $ --user : show service use for user
+$ --help : help
 ```
 
 ### Contact me on :
