@@ -37,7 +37,7 @@ $ bash Ram.sh apache2
 ```
 $ --int : Interactive mode
 $ --service : Show all service
-$ --user : show service use for user
+$ --user user : show service use for user
 $ --help : help
 ```
 
