@@ -30,12 +30,15 @@ $ chmod +x Ram.sh
 ```
 **`Run the script`**
 ```
-$ bash Ram.sh
+$ bash Ram.sh php
+$ bash Ram.sh apache2
 ```
 **`Script settings`**
 ```
-$ --int
-$ --service
+$ --int : Interractive mode
+$ --service : Show all service
+$ --help : help
+$ --user : show service use for user
 ```
 
 ### Contact me on :
