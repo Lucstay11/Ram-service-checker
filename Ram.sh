@@ -13,7 +13,7 @@ PS=$(ps -ely|grep -v kworker|grep -v $$|grep -v CMD|grep -v grep |awk '{print $1
     #Default Mode 
     elif [[ $INT == "--help" ]];then
          echo "  Help menu"
-         echo "--int : Interractive Mode"
+         echo "--int : Interactive Mode"
          echo "--service : Show all current services"
     elif [[ $INT == "--service" ]];then
          TOTAL_PS=$(ps -ely|grep -v kworker|grep -v $$|grep -v CMD|grep -v grep |wc -l)
